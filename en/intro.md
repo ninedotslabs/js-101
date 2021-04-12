@@ -1,4 +1,4 @@
-# Pengenalan
+# Introduction
 
 What is javascript(js) ? javascript is one of many programming language used especially for web development.
 
